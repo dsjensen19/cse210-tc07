@@ -31,26 +31,3 @@ Enhanced words (different list, more on screen, etc)
 Enhanced input validation with user-friendly messages.
 Enhanced game play (variable speeds, expire penalties, etc).
 Enhanced board representation (better ascii art)
-
-______________________________________________________
-
-              CLASSES AND ASSINGMENTS
-______________________________________________________
-AUTHOR NAMES: Tyson Brost, Derek Jensen. Seth, Chris Patrinovich
-
-Actor (word) : Moves across screen carries a point value based on length
-    Assigned to - 
-Constants : sets screen size and movement rates
-    Assigned to - 
-Director
-    Assigned to - 
-Buffer : I don't know what this is for 
-    Assigned to - 
-InputService : takes user input
-    Assigned to - 
-OutputSerivce : updates game board
-    Assigned to - 
-Score : tracks player score
-    Assigned to - 
-Player : gives input 
-    Assigned to - 
