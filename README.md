@@ -10,7 +10,7 @@ Actor (word) : Moves across screen carries a point value based on length
 Constants : sets screen size and movement rates
     Assigned to - 
 Director
-    Assigned to - 
+    Assigned to - Derek Jensen
 Buffer :Hold and display dynamic user input
     Assigned to - 
 InputService : takes user input
@@ -18,6 +18,6 @@ InputService : takes user input
 OutputSerivce : updates game board
     Assigned to - 
 Score : tracks player score
-    Assigned to - 
+    Assigned to - Derek Jensen
 Player : gives input 
     Assigned to - 
