@@ -14,9 +14,12 @@ Constants : sets screen size and movement rates
 Director
     Assigned to - Derek Jensen
 
-Buffer :Hold and display dynamic user input
+Buffer(Actor()) :Hold and display dynamic user input
     Assigned to - chris
-
+    super().__intt__()
+    def get()
+    def add(char)
+    def clear()
 InputService : takes user input
     Assigned to - seth
 OutputSerivce : updates game board
