@@ -5,16 +5,20 @@ ______________________________________________________
 ______________________________________________________
 AUTHOR NAMES: Tyson Brost, Derek Jensen. Seth, Chris Patrinovich
 
-Actor (word) : Moves across screen carries a point value based on length
-    Assigned to - 
+
+Word (Actor) : Moves across screen carries a point value based on length
+    Assigned to - seth
 Constants : sets screen size and movement rates
     Assigned to - 
+
 Director
     Assigned to - Derek Jensen
+
 Buffer :Hold and display dynamic user input
-    Assigned to - 
+    Assigned to - chris
+
 InputService : takes user input
-    Assigned to - 
+    Assigned to - seth
 OutputSerivce : updates game board
     Assigned to - 
 Score : tracks player score
