@@ -15,7 +15,8 @@ class Word(Actor):
         x = randint(0,constants.MAX_X)
         y = randint(0,constants.MAX_Y)
         self.set_position(Point(x,y))
+
         angle = randint(0,359)
         dx = cos(angle)
         dy = sin(angle)
-        self.set_velocity(Point(x,dy))
+        self.set_velocity(Point(dx,dy))
