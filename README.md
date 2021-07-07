@@ -3,7 +3,7 @@ ______________________________________________________
 
               CLASSES AND ASSINGMENTS
 ______________________________________________________
-AUTHOR NAMES: Tyson Brost, Derek Jensen. Seth, Chris Patrinovich
+AUTHOR NAMES: Tyson Brost, Derek Jensen, Seth Burton, Chris Patrinovich
 
 
 Word (Actor) : Moves across screen carries a point value based on length
